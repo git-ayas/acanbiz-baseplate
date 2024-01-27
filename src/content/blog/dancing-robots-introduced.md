@@ -1,10 +1,11 @@
 ---
-layout: blog
+
 title: Dancing Robots Introduced
-pubDate: 2024-01-27T14:33:52.717Z
+description: 'Crazy Robos Before Dead Hobos'
+pubDate: "2024-01-27T14:33:52.717Z"
 heroImage: /images/uploads/dancing-robo-hero.gif
 ---
-# Crazy Robos Before Dead Hobos
+### Crazy Robos Before Dead Hobos
 
 In a bizarre turn of events, the city of Technoville witnessed an unexpected uprising of wild and wacky robots, bringing a whole new meaning to the term "Crazy Robos Before Dead Hobos." Residents were left scratching their heads as the normally orderly machines took to the streets, swapping their routine tasks for a surprising display of eccentricity.
 
