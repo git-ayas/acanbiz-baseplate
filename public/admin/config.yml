@@ -18,7 +18,7 @@ collections:
           name: "description",
           widget: "string",
           pattern:
-            ["/^.{5,250}$/", "Your input must be between 5 to 250 characters"],
+            ["^.{5,250}$", "Your input must be between 5 to 250 characters"],
         }
       - { label: "Published", name: "pubDate", widget: "datetime" }
       - {
